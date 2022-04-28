@@ -35,9 +35,7 @@ run_analysis.R do as follows:
 # Import the following data with the "read.table" command from the "UCI HAR Dataset" folder
 ###
 # Import Activity Labels
-
 # Import Features [names]
-
 # Import Train Data [SubjectId, TestLabel, X-Measurements]
 # Import Test Data  [SubjectId, TestLabel, X-Measurements]
 
