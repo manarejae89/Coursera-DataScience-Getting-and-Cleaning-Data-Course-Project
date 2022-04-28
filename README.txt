@@ -31,6 +31,8 @@ run_analysis.R do as follows:
 ---------------------
 # Load "dplyr" library
 
+# Download Data Set
+
 ###
 # Import the following data with the "read.table" command from the "UCI HAR Dataset" folder
 ###
